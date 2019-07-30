@@ -41,5 +41,5 @@ More info and options can be found [here](https://git-scm.com/book/en/v2/Appendi
 
 ### Issues
 If you have the issues with ~/.bash_profile not found
-~ cd ~
-~ touch .bash_profile
+* $ cd ~
+* $ touch .bash_profile
