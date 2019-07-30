@@ -37,3 +37,9 @@ In addition, by simply exporting a couple of variables in `~/.git-bash-for-mac.s
 * if you set `export GIT_PS1_SHOWUNTRACKEDFILES=1` and there are untracked files then a '%' will be shown next to the branch name.
 
 More info and options can be found [here](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash).
+
+
+### Issues
+If you have the issues with ~/.bash_profile not found
+~ cd ~
+~ touch .bash_profile
